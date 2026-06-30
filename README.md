@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0029-divide-two-integers) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3001-minimum-moves-to-capture-the-queen) |
 ## Recursion
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0980-unique-paths-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3001-minimum-moves-to-capture-the-queen) |
 <!---LeetCode Topics End-->
