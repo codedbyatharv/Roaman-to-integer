@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3001-minimum-moves-to-capture-the-queen) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
