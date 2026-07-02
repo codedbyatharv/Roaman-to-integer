@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0042-trapping-rain-water) |
 | [0980-unique-paths-iii](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0980-unique-paths-iii) |
 | [1732-find-the-highest-altitude](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1732-find-the-highest-altitude) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
