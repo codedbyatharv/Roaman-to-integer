@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0980-unique-paths-iii) |
 | [1732-find-the-highest-altitude](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0980-unique-paths-iii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -85,4 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0197-rising-temperature) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
