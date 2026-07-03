@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0042-trapping-rain-water) |
+| [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
 | ------- |
@@ -99,16 +101,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
