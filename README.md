@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0010-regular-expression-matching) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -50,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0042-trapping-rain-water) |
 | [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
