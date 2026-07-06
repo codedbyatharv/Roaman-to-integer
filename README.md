@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0042-trapping-rain-water) |
 | [0980-unique-paths-iii](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0994-rotting-oranges) |
+| [1288-remove-covered-intervals](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
