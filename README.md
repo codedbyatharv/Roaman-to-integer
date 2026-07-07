@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0029-divide-two-integers) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3001-minimum-moves-to-capture-the-queen) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
