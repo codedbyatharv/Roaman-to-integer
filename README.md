@@ -1,159 +1,73 @@
 # Roaman-to-integer
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0011-container-with-most-water) |
-| [0014-longest-common-prefix](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0014-longest-common-prefix) |
-| [0042-trapping-rain-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0042-trapping-rain-water) |
-| [0980-unique-paths-iii](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0980-unique-paths-iii) |
-| [0994-rotting-oranges](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0994-rotting-oranges) |
-| [1288-remove-covered-intervals](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1288-remove-covered-intervals) |
-| [1301-number-of-paths-with-max-score](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1301-number-of-paths-with-max-score) |
-| [1732-find-the-highest-altitude](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1732-find-the-highest-altitude) |
-| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
-| [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
-| [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0005-longest-palindromic-substring](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0005-longest-palindromic-substring) |
-| [0010-regular-expression-matching](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0010-regular-expression-matching) |
-| [0014-longest-common-prefix](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0014-longest-common-prefix) |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1358-number-of-substrings-containing-all-three-characters) |
-| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0002-add-two-numbers) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0002-add-two-numbers) |
-| [0009-palindrome-number](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0009-palindrome-number) |
-| [0029-divide-two-integers](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0029-divide-two-integers) |
-| [3001-minimum-moves-to-capture-the-queen](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3001-minimum-moves-to-capture-the-queen) |
-| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0002-add-two-numbers) |
-| [0010-regular-expression-matching](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0010-regular-expression-matching) |
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0003-longest-substring-without-repeating-characters) |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1358-number-of-substrings-containing-all-three-characters) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0003-longest-substring-without-repeating-characters) |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1358-number-of-substrings-containing-all-three-characters) |
-## Two Pointers
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0005-longest-palindromic-substring) |
-| [0011-container-with-most-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0011-container-with-most-water) |
-| [0042-trapping-rain-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0042-trapping-rain-water) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0005-longest-palindromic-substring](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0005-longest-palindromic-substring) |
-| [0010-regular-expression-matching](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0010-regular-expression-matching) |
-| [0042-trapping-rain-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0042-trapping-rain-water) |
-| [1301-number-of-paths-with-max-score](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1301-number-of-paths-with-max-score) |
-| [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
-## Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0042-trapping-rain-water) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0042-trapping-rain-water) |
-## Prefix Sum
-|  |
-| ------- |
-| [1732-find-the-highest-altitude](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1732-find-the-highest-altitude) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0029-divide-two-integers](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0029-divide-two-integers) |
-| [0980-unique-paths-iii](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0980-unique-paths-iii) |
-## Backtracking
-|  |
-| ------- |
-| [0980-unique-paths-iii](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0980-unique-paths-iii) |
-## Matrix
-|  |
-| ------- |
-| [0980-unique-paths-iii](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0980-unique-paths-iii) |
-| [0994-rotting-oranges](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0994-rotting-oranges) |
-| [1301-number-of-paths-with-max-score](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1301-number-of-paths-with-max-score) |
-| [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
-## Enumeration
-|  |
-| ------- |
-| [3001-minimum-moves-to-capture-the-queen](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3001-minimum-moves-to-capture-the-queen) |
-## Database
-|  |
-| ------- |
-| [0175-combine-two-tables](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0175-combine-two-tables) |
-| [0176-second-highest-salary](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0176-second-highest-salary) |
-| [0181-employees-earning-more-than-their-managers](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0181-employees-earning-more-than-their-managers) |
-| [0197-rising-temperature](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0197-rising-temperature) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0994-rotting-oranges](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0994-rotting-oranges) |
-| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
-| [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
-## Graph Theory
-|  |
-| ------- |
-| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
-| [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
-| [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
-| [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
-## Shortest Path
-|  |
-| ------- |
-| [3286-find-a-safe-walk-through-a-grid](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3286-find-a-safe-walk-through-a-grid) |
-| [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
-## Greedy
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0011-container-with-most-water) |
-## Binary Search
-|  |
-| ------- |
-| [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
-## Topological Sort
-|  |
-| ------- |
-| [3620-network-recovery-pathways](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3620-network-recovery-pathways) |
-## Depth-First Search
-|  |
-| ------- |
-| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
-## Union-Find
-|  |
-| ------- |
-| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
-## Sorting
-|  |
-| ------- |
-| [1288-remove-covered-intervals](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1288-remove-covered-intervals) |
-## Trie
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0014-longest-common-prefix) |
-<!---LeetCode Topics End-->
+<!---LeetHub Summary Start-->
+## LeetHub Summary
+
+| Total Solved | Easy | Medium | Hard |
+| ---: | ---: | ---: | ---: |
+| 20 | 7 | 10 | 3 |
+
+## Activity
+
+| Current Streak | Best Streak | Active Days |
+| ---: | ---: | ---: |
+| 7 days | 7 days | 7 |
+
+| Date | Problems |
+| --- | ---: |
+| 2026-07-02 | 4 |
+| 2026-07-03 | 4 |
+| 2026-07-04 | 2 |
+| 2026-07-05 | 6 |
+| 2026-07-06 | 1 |
+| 2026-07-07 | 1 |
+| 2026-07-08 | 2 |
+
+## Top Tags
+
+| Tag | Problems | Coverage |
+| --- | ---: | ---: |
+| Array | 6 | 30% |
+| Database | 3 | 15% |
+| Dynamic Programming | 3 | 15% |
+| Math | 3 | 15% |
+| String | 3 | 15% |
+| Breadth-First Search | 2 | 10% |
+| Graph Theory | 2 | 10% |
+| Matrix | 2 | 10% |
+| Two Pointers | 2 | 10% |
+| Binary Search | 1 | 5% |
+
+## Topics
+
+| Topic | Problems |
+| --- | ---: |
+| [Array](Topics/array/) | 6 |
+| [Backtracking](Topics/backtracking/) | 0 |
+| [Binary Search](Topics/binary-search/) | 1 |
+| [Binary Tree](Topics/binary-tree/) | 0 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 0 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
+| [Data Structures](Topics/data-structures/) | 0 |
+| [Database](Topics/database/) | 3 |
+| [Depth-First Search](Topics/depth-first-search/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Graph Theory](Topics/graph/) | 2 |
+| [Greedy](Topics/greedy/) | 1 |
+| [Hash Table](Topics/hash-table/) | 0 |
+| [Heap](Topics/heap/) | 0 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Linked List](Topics/linked-list/) | 0 |
+| [Math](Topics/math/) | 3 |
+| [Matrix](Topics/matrix/) | 2 |
+| [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Shortest Path](Topics/shortest-path/) | 1 |
+| [Sorting](Topics/sorting/) | 1 |
+| [Stack](Topics/stack/) | 0 |
+| [String](Topics/string/) | 3 |
+| [Topological Sort](Topics/topological-sort/) | 1 |
+| [Trie](Topics/trie/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 2 |
+| [Union-Find](Topics/union-find/) | 1 |
+<!---LeetHub Summary End-->
