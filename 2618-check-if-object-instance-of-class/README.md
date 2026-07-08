@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-object-instance-of-class">2758. Check if Object Instance of Class</a></h2><h3>Medium</h3><hr><p>Write a function that checks if a given value&nbsp;is an instance of a given class or superclass. For this problem, an object is considered an instance of a given class if that object has access to that class&#39;s methods.</p>
+<h2><a href="https://leetcode.com/problems/check-if-object-instance-of-class/">2618. Check if Object Instance of Class</a></h2><h3>Medium</h3><hr><p>Write a function that checks if a given value&nbsp;is an instance of a given class or superclass. For this problem, an object is considered an instance of a given class if that object has access to that class&#39;s methods.</p>
 
 <p>There are&nbsp;no constraints on the data types that can be passed to the function. For example, the value or the class could be&nbsp;<code>undefined</code>.</p>
 
