@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "depth-first-search",
+    "name": "Depth-First Search"
+  },
+  "updatedAt": "2026-07-08T07:23:29.792Z",
+  "problems": [
+    {
+      "frontendId": "2492",
+      "title": "Minimum Score of a Path Between Two Cities",
+      "slug": "minimum-score-of-a-path-between-two-cities",
+      "problemName": "2492-minimum-score-of-a-path-between-two-cities",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/",
+      "folderPath": "2492-minimum-score-of-a-path-between-two-cities/",
+      "readmePath": "2492-minimum-score-of-a-path-between-two-cities/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2492-minimum-score-of-a-path-between-two-cities.cpp",
+          "path": "2492-minimum-score-of-a-path-between-two-cities/2492-minimum-score-of-a-path-between-two-cities.cpp",
+          "sha": "2c2fef482f468ef08e94dbd4bcda3364ef637ee7",
+          "lastSyncedAt": "2026-07-08T07:23:29.792Z"
+        }
+      ]
+    }
+  ]
+}
