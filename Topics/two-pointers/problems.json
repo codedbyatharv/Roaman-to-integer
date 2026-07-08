@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers"
+  },
+  "updatedAt": "2026-07-08T07:23:21.792Z",
+  "problems": [
+    {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "problemName": "0005-longest-palindromic-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "folderPath": "0005-longest-palindromic-substring/",
+      "readmePath": "0005-longest-palindromic-substring/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0005-longest-palindromic-substring.cpp",
+          "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.cpp",
+          "sha": "91afda36040988d3bcafe47a003f2c232555d356",
+          "lastSyncedAt": "2026-07-08T07:23:21.792Z"
+        }
+      ]
+    }
+  ]
+}
