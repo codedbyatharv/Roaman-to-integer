@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database"
+  },
+  "updatedAt": "2026-07-08T07:23:43.428Z",
+  "problems": [
+    {
+      "frontendId": "176",
+      "title": "Second Highest Salary",
+      "slug": "second-highest-salary",
+      "problemName": "0176-second-highest-salary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/second-highest-salary/",
+      "folderPath": "0176-second-highest-salary/",
+      "readmePath": "0176-second-highest-salary/README.md",
+      "solutions": [
+        {
+          "language": "Pandas",
+          "extension": ".py",
+          "filename": "0176-second-highest-salary.py",
+          "path": "0176-second-highest-salary/0176-second-highest-salary.py",
+          "sha": "2b288dba12ec95b718d0d5b1a49bd329c923b1fd",
+          "lastSyncedAt": "2026-07-08T07:23:43.428Z"
+        }
+      ]
+    }
+  ]
+}
