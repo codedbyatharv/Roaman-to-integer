@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0042-trapping-rain-water) |
 | [0980-unique-paths-iii](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0994-rotting-oranges) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0014-longest-common-prefix) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Linked List
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/1288-remove-covered-intervals) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
