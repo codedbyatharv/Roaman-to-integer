@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "shortest-path",
+    "name": "Shortest Path"
+  },
+  "updatedAt": "2026-07-08T07:23:57.197Z",
+  "problems": [
+    {
+      "frontendId": "3620",
+      "title": "Network Recovery Pathways",
+      "slug": "network-recovery-pathways",
+      "problemName": "3620-network-recovery-pathways",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/network-recovery-pathways/",
+      "folderPath": "3620-network-recovery-pathways/",
+      "readmePath": "3620-network-recovery-pathways/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3620-network-recovery-pathways.cpp",
+          "path": "3620-network-recovery-pathways/3620-network-recovery-pathways.cpp",
+          "sha": "2e90903b1d43ac69dab130027b6c7e59098747ae",
+          "lastSyncedAt": "2026-07-08T07:23:57.197Z"
+        }
+      ]
+    }
+  ]
+}
