@@ -4,8 +4,28 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-07-08T07:22:58.836Z",
+  "updatedAt": "2026-07-08T07:23:50.755Z",
   "problems": [
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "0994-rotting-oranges/",
+      "readmePath": "0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0994-rotting-oranges.py",
+          "path": "0994-rotting-oranges/0994-rotting-oranges.py",
+          "sha": "10d71972cdcec75cf32cab86ebbe4bd055578f07",
+          "lastSyncedAt": "2026-07-08T07:23:50.755Z"
+        }
+      ]
+    },
     {
       "frontendId": "1301",
       "title": "Number of Paths with Max Score",
