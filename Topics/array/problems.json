@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-08T07:22:24.336Z",
+  "updatedAt": "2026-07-08T07:22:50.713Z",
   "problems": [
     {
       "frontendId": "14",
@@ -23,6 +23,26 @@
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.py",
           "sha": "87f5dc42e808dc3bf7134e783aa7d3fde50ddf72",
           "lastSyncedAt": "2026-07-08T07:22:24.336Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1288",
+      "title": "Remove Covered Intervals",
+      "slug": "remove-covered-intervals",
+      "problemName": "1288-remove-covered-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-covered-intervals/",
+      "folderPath": "1288-remove-covered-intervals/",
+      "readmePath": "1288-remove-covered-intervals/README.md",
+      "solutions": [
+        {
+          "language": "JavaScript",
+          "extension": ".js",
+          "filename": "1288-remove-covered-intervals.js",
+          "path": "1288-remove-covered-intervals/1288-remove-covered-intervals.js",
+          "sha": "b2d7f87e0e261d9b270066f80acb214cce3d3f07",
+          "lastSyncedAt": "2026-07-08T07:22:50.713Z"
         }
       ]
     }
