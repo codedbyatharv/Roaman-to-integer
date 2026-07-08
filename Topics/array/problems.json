@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-08T07:23:50.755Z",
+  "updatedAt": "2026-07-08T07:23:57.197Z",
   "problems": [
     {
       "frontendId": "14",
@@ -83,6 +83,26 @@
           "path": "1301-number-of-paths-with-max-score/1301-number-of-paths-with-max-score.py",
           "sha": "4bb4a214e5b118618c6c00da5c94776182696d5f",
           "lastSyncedAt": "2026-07-08T07:22:58.836Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3620",
+      "title": "Network Recovery Pathways",
+      "slug": "network-recovery-pathways",
+      "problemName": "3620-network-recovery-pathways",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/network-recovery-pathways/",
+      "folderPath": "3620-network-recovery-pathways/",
+      "readmePath": "3620-network-recovery-pathways/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3620-network-recovery-pathways.cpp",
+          "path": "3620-network-recovery-pathways/3620-network-recovery-pathways.cpp",
+          "sha": "2e90903b1d43ac69dab130027b6c7e59098747ae",
+          "lastSyncedAt": "2026-07-08T07:23:57.197Z"
         }
       ]
     }
