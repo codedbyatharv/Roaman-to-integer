@@ -4,6 +4,27 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-07-08T07:22:09.843Z",
-  "problems": []
+  "updatedAt": "2026-07-08T07:22:58.836Z",
+  "problems": [
+    {
+      "frontendId": "1301",
+      "title": "Number of Paths with Max Score",
+      "slug": "number-of-paths-with-max-score",
+      "problemName": "1301-number-of-paths-with-max-score",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-paths-with-max-score/",
+      "folderPath": "1301-number-of-paths-with-max-score/",
+      "readmePath": "1301-number-of-paths-with-max-score/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1301-number-of-paths-with-max-score.py",
+          "path": "1301-number-of-paths-with-max-score/1301-number-of-paths-with-max-score.py",
+          "sha": "4bb4a214e5b118618c6c00da5c94776182696d5f",
+          "lastSyncedAt": "2026-07-08T07:22:58.836Z"
+        }
+      ]
+    }
+  ]
 }
