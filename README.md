@@ -71,3 +71,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Two Pointers](Topics/two-pointers/) | 2 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/codedbyatharv/Roaman-to-integer/tree/master/3532-path-existence-queries-in-a-graph-i) |
+<!---LeetCode Topics End-->
